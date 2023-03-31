@@ -25,7 +25,7 @@ def snake():
     snake_game()
 
 def crossing_capstone():
-    from crossing_capstone.main import snake_game
+    from capstone.main import crossing_capstone
     snake_game()
 
 library = {
