@@ -1,6 +1,10 @@
 # turtle_games
 🎮🐢 A few games based on turtle library
 Libraries used for development: `turtle`, `pandas`
+to start run
+```Python
+python3 main.py
+```
 ## geography of Ukraine: administrative division
 
 #### A training program for learning the names of the regions of Ukraine.
@@ -17,8 +21,7 @@ Libraries used for development: `turtle`, `pandas`
 
 ## Snake 🐍
 
-#### One of the variants of implementation of the well-known Snake game.
-#### The maximum result of the game is recorded in a file names `high_score.txt`
+#### One of the variants of implementation of the well-known Snake game. The maximum result of the game is recorded in a file names `high_score.txt`
 
 ## Crossing Capstone Games
 
